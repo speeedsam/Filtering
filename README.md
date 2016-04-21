@@ -13,13 +13,7 @@ Filtering - is simple hover effects created with CSS filters. CSS3 filters are c
     <li>hue-rotate() </li>
     <li>opacity()</li>
 </ul>
-<style type="text/css">
-    .prose-diff>.markdown-body pre {
-    padding: 10px 20px;
-    background: #000;
-    color: #E5442E;
-}
-</style>
+
 <section>
 <p> 1. CSS3 Filter Blur Effects</p>
 <a href="http://codepen.io/speeedsam/pen/mPKMJJ">Live Demo & Code Editor</a><br>
